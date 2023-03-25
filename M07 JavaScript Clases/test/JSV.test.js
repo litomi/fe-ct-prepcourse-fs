@@ -85,7 +85,7 @@ describe('JAVASCRIPT V', function () {
                nombre: 'Juan',
                apellido: 'Pérez',
                edad: 22,
-               domicilio: 'Saavedra 123',
+               domicilio: 'Saavedra 123'
             });
          });
       });
